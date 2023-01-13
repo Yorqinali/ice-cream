@@ -1,0 +1,30 @@
+/* .container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-content: space-around;
+  align-items: center;
+  width:100%;
+  height: 700px;
+  background-color: lavender;
+  border: 1px  solid orange
+} */
+
+
+
+/* 
+.container{
+  height: 700px;
+  width: 1300px ;
+  background-color: rgb(117, 114, 114);
+  border: 2px solid aqua;
+}
+.header{
+  border: 2px solid aqua;
+  width: 1200px;
+  height: 20%;
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+
+} */
