@@ -44,6 +44,7 @@ border-radius: 5px;
 width: 165px;
 height: 49px;
 color: white; 
+border: 0;
 }
 .hero{
   display: flex;
